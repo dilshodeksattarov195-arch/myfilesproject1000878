@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorrarse",
+        "uuid": 3824568,
+        "checksum": "nfkw39"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
